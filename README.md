@@ -1,7 +1,7 @@
 ### 👋 안녕하세요 프론트엔드 개발자 우다영입니다.
 Birth: 1996.10.11  
 Email: iamwooda0@gmail.com  
-[notion](https://truthful-paw-79e.notion.site/83a4bd92174342468680fdb355bb337a?pvs=4)  
+Resume: [notion](https://truthful-paw-79e.notion.site/83a4bd92174342468680fdb355bb337a?pvs=4)  
 <br/>
 
 
