@@ -1,15 +1,15 @@
 ## 👋 안녕하세요 프론트엔드 개발자 우다영입니다.
-- 🎂 **Birth**: 1996.10.11
-- 📞 **Mobile**: 010-9156-2464
-- 📫 **Email**: iamwooda0@gmail.com
-- 📜 [**notion 이력서**](https://truthful-paw-79e.notion.site/83a4bd92174342468680fdb355bb337a?pvs=4)  
-  <br/>
+🎂 **Birth**: 1996.10.11  
+📞 **Mobile**: 010-9156-2464  
+📫 **Email**: iamwooda0@gmail.com  
+📜 [**notion 이력서**](https://truthful-paw-79e.notion.site/83a4bd92174342468680fdb355bb337a?pvs=4)  
+<br/>
 
 
 ## 💼 경력
-- **2019.02 :** 수원대학교 정보보호학과 졸업
-- **2019.04.15 - 2021.04.20 :** 소프트베이스 근무
-- **2021.07.12 -  현재** : 소프트캠프 근무중
+**2019.02 :** 수원대학교 정보보호학과 졸업
+**2019.04.15 - 2021.04.20 :** 소프트베이스 근무
+**2021.07.12 -  현재** : 소프트캠프 근무중
 <br/>
 
 
@@ -21,7 +21,12 @@ FRONTEND
   
 BACKEND  
   
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
+<br/>  
+
+TOOLS
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/microsoftazure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/azuredevops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">  <img src="https://img.shields.io/badge/asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"> 
+
 
 <!---
 DaYoung-woo/DaYoung-woo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
