@@ -2,7 +2,7 @@
 - 🎂 Birth: 1996.10.11
 - 📞 Mobile: 010-9156-2464
 - 📫 Email: iamwooda0@gmail.com
-- 📜 [notion 이력서](https://truthful-paw-79e.notion.site/83a4bd92174342468680fdb355bb337a?pvs=4
+- 📜 [notion 이력서](https://truthful-paw-79e.notion.site/83a4bd92174342468680fdb355bb337a?pvs=4)
       
 
 <!---
